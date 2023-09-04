@@ -23,17 +23,17 @@
 
 #### General
 
-1- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic
-2- All your files should end with a new line
-3- A README.md file, at the root of the folder of the project is mandatory
-4- Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-5- You allowed to use a maximum of one global variable
-6- No more than 5 functions per file
-7- You are allowed to use the C standard library
-8- The prototypes of all your functions should be included in your header file called monty.h
-9- Don’t forget to push your header file
-10- All your header files should be include guarded
-11- You are expected to do the tasks in the order shown in the project
+1. All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic
+2. All your files should end with a new line
+3. A README.md file, at the root of the folder of the project is mandatory
+4. Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+5. You allowed to use a maximum of one global variable
+6. No more than 5 functions per file
+7. You are allowed to use the C standard library
+8. The prototypes of all your functions should be included in your header file called monty.h
+9. Don’t forget to push your header file
+10. All your header files should be include guarded
+11. You are expected to do the tasks in the order shown in the project
 
 
 ##### `Resources`   :earth_africa:
