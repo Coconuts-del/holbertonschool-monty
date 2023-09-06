@@ -43,5 +43,6 @@ void push(stack_t **stack, unsigned int ligne);
 stack_t *add_node(stack_t **stack, int n);
 void check(char *cmd, stack_t **stack, unsigned int ligne);
 void free_all(stack_t *stack);
+void pint(stack_t **stack, unsigned int ligne);
 
 #endif
