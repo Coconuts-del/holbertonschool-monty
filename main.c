@@ -54,6 +54,7 @@ void check(char *cmd, stack_t **stack, unsigned int ligne)
 	instruction_t op[] = {
 		{"push", push},
 		{"pall", pall},
+		{"pint", pint},
 		{NULL, NULL},
 	};
 
