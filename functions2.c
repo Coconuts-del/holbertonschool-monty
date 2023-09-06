@@ -29,8 +29,7 @@ void pop(stack_t **stack, unsigned int ligne)
 	if (*stack == NULL)
 	{
 		fprintf(stderr, "L%u: can't pop an empty stack\n", ligne);
-		error = 1;
-		return;
+		exit(EXIT_FAILURE);
 	}
 	*stack = (*stack)->next;
 	if (*stack)
