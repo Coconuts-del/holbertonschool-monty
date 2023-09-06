@@ -58,6 +58,7 @@ void check(char *cmd, stack_t **stack, unsigned int ligne)
 		{"pop", pop},
 		{"swap", swap},
 		{"add", add},
+		{"nop", nop},
 		{NULL, NULL},
 	};
 

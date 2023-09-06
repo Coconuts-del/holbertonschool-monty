@@ -47,5 +47,6 @@ void pint(stack_t **stack, unsigned int ligne);
 void pop(stack_t **stack, unsigned int ligne);
 void swap(stack_t **stack, unsigned int ligne);
 void add(stack_t **stack, unsigned int ligne);
+void nop(stack_t **stack, unsigned int ligne);
 
 #endif
