@@ -2,6 +2,7 @@
 
 /**
  * check_digit - check if the string contains only digits
+ *
  * @arg: pointer on argument to check
  * Return: 0 if only digits are found, 1 otherwise
  */
