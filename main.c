@@ -39,6 +39,7 @@ int main(int argc, char **argv)
 	}
 	free(str);
 	fclose(fd);
+	free_all(stack);
 	return (EXIT_SUCCESS);
 }
 /**
