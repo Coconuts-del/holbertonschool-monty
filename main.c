@@ -55,6 +55,7 @@ void check(char *cmd, stack_t **stack, unsigned int ligne)
 		{"push", push},
 		{"pall", pall},
 		{"pint", pint},
+		{"pop", pop},
 		{NULL, NULL},
 	};
 
