@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="https://zupimages.net/up/23/36/xjje.png" /></div>
+
+
 ### `C - Stacks, Queues - LIFO, FIFO` :dart:
 
 * What do LIFO and FIFO mean
@@ -40,4 +43,7 @@
 * [*How do I use extern to share variables between source files in C?:*] (https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
 * [*GOOGLE:*] (https://www.google.com/search?channel=fs&client=ubuntu-sn&q=google)
 
-# :spider_web::fist_raised:
+## Authors
+* [**Abdelkader AOUAR**](https://github.com/powerofcode2023)
+* [**Claudine Sillam**](https://github.com/Coconuts-del)
+* [**Jean-Luc Bilo**](https://github.com/Luckisback)
