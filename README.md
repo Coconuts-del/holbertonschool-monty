@@ -54,8 +54,8 @@ $ ./monty bytecodes/00.m
 
 
 ##### `Resources`   :earth_africa:
-* [*How do I use extern to share variables between source files in C?:*] (https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
-* [*GOOGLE:*] (https://www.google.com/search?channel=fs&client=ubuntu-sn&q=google)
+* [*How do I use extern to share variables between source files in C?:*](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+* [*GOOGLE:*](https://www.google.com/search?channel=fs&client=ubuntu-sn&q=google)
 
 ## `Authors`
 * [**Abdelkader AOUAR**](https://github.com/powerofcode2023)
